@@ -5,5 +5,4 @@ Game Name:Frog Diving
 <p>This game is Frog Diving</p>
 <a href = "http://www.lfd.uci.edu/~gohlke/pythonlibs/#pygame">1.Click here to download pygame.</a>
 
-
 <a href = "https://www.youtube.com/watch?v=_GikMdhAhv0&feature=youtu.be">2.Click here to see how to install python 3.6 and pygame.</a>
